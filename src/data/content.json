@@ -1,0 +1,141 @@
+{
+  "name": "Sudabathula Tejaswi",
+  "role": "Full Stack Developer",
+  "contact": {
+    "email": "tejaswi.s1234@gmail.com",
+    "phone": "+91 7013853417",
+    "linkedin": "https://www.linkedin.com/in/tejaswi-sudhabattula/",
+    "github": "https://github.com/SudabathulaTejaswi",
+    "leetcode": "https://leetcode.com/u/Tejaswi_S/"
+  },
+  "objective": "A highly motivated Computer Science Engineering graduate...",
+  "skills": ["C", "C++", "Java", "Python", "HTML", "CSS", "JavaScript", "ReactJs", "NodeJs", "ExpressJs", "MongoDB", "MySQL", "SQL", "Git", "GitHub", "Postman", "VS Code"],
+  "education":[
+    {
+      "title": "B.Tech - Computer Science Engineering",
+      "institution": "Prasad V. Potluri Siddhartha Institute of Technology",
+      "duration": "2023 – Present",
+      "score": "CGPA: 8.97",
+      "side": "left"
+    },
+    {
+      "title": "Diploma - Computer Engineering (CME)",
+      "institution": "A.A.N.M & V.V.R.S.R Polytechnic, Gudlavalleru",
+      "duration": "2020 – 2023",
+      "score": "Percentage: 93%",
+      "side": "right"
+    },
+    {
+      "title": "SSC",
+      "institution": "Z.P.High School",
+      "duration": "2019 – 2020",
+      "score": "CGPA: 10.0/10.0",
+      "side": "left"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Clean Slate",
+      "description": "MERN stack platform connecting customers with service professionals.",
+      "link": "https://github.com/SudabathulaTejaswi/CleanHome"
+    },
+    {
+      "title": "Smart Learning",
+      "description": "Interactive e-learning portal using the MERN stack.",
+      "link": "https://github.com/SudabathulaTejaswi/Smart-Learning"
+    },
+    {
+      "title": "Fake News Detection",
+      "description": "Machine learning-based fake news classifier.",
+      "link": "https://github.com/SudabathulaTejaswi/FakeNewsDetection"
+    },
+    {
+      "title": "Smart City Pulse",
+      "description": "Android app for urban issue reporting.",
+      "link": "https://github.com/SudabathulaTejaswi/Smart-City-Pulse"
+    }
+  ],
+  "experience": [
+    {
+     "type": "Offline Internship",
+     "company":" Swapna Bharathi Learning Solutions",
+     "techstack" : "HTML, CSS, JavaScript",
+     "description" : "Designed and developed frontend of a business website using HTML, CSS, and JavaScript"
+   },
+    {
+     "type": "Virtual Internship",
+     "company":" AICTE Edu Skills",
+     "techstack" : " AWS",
+     "description" : "Learned how to deploy scalable and secure apps on the cloud using real-world use cases."
+   }
+  ]
+,
+
+  "achievements":[
+    {
+      "title": "Leet Code",
+      "description": "Solved 150+ coding problems demonstrating algorithmic problem-solving skills"
+    },
+    {
+      "title": "HackerRank",
+      "description": "Problem Solver silver badge for exceptional coding solutions"
+    }
+    ,
+    {
+      "title": "Codechef",
+      "description": "Problem Solver silver badge for exceptional coding solutions"
+    }
+    ,
+    {
+      "title": "ECET",
+      "description": "Secured 83rd Rank in state-level engineering entrance exam"
+    },
+    {
+      "title": "Codechef",
+      "description": "Golden Badge  Contest Contender in competitive programming"
+    }
+    ,
+    {
+      "title": "Codechef",
+      "description": "Golden streak Badge"
+    }
+    
+  ],
+ "certifications" : [
+    {
+      "title": "Java Programming",
+      "company" : "NPTEL",
+      "link": "https://drive.google.com/file/d/1gaPy3fgg94MdNfCSwQ3i0bDS5epeYumV/view?usp=drive_link"
+    },
+     {
+      "title": "DBMS – NPTEL",
+      "company" : "NPTEL",
+      "link": "https://drive.google.com/file/d/1MytwHrCykYlQffza8tlQ73bGm2WByHry/view?usp=drive_link"
+    },
+     {
+      "title": "Python",
+      "company":"Infosys Springboard",
+      "link": "https://drive.google.com/file/d/1AU4RNzY_c90k4wmsml2X0Ceevr7zwJiD/view?usp=drive_link"
+    },
+     {
+      "title": " AI Fundamentals ",
+      "company":"Infosys Springboard",
+      "link": "https://drive.google.com/file/d/13k78MfpHdp5-9MhcbLMKKj1gQVn6ghR-/view?usp=drive_link"
+    }
+    ,
+     {
+      "title": "Machine Learning",
+      "company":"Infosys Springboard",
+      "link": "https://drive.google.com/file/d/17KLkiVTih5yZ-Aq4YS-1-dw5papY3XzN/view?usp=drive_link"
+    }
+    ,
+     {
+      "title": "MERN",
+      "company":"MastersCoding",
+      "link": "https://drive.google.com/file/d/1tAphVNaGhf_6CBuS9kEy4tmMcQb40AO2/view?usp=drive_link"
+    }
+ ]
+,
+  "cgpa": 8.97,
+  "leetcodeProblems": 150
+}

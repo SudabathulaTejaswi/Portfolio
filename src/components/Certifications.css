@@ -1,0 +1,112 @@
+.certifications-carousel {
+  text-align: center;
+  padding: 40px 20px;
+  position: relative;
+}
+
+.highlight {
+  color: #356ef7;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  overflow: hidden;
+}
+
+.cert-scroll-container {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  gap: 20px;
+  padding: 20px 0;
+  scrollbar-width: none; /* Firefox */
+}
+
+.cert-scroll-container::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}
+
+.cert-card {
+  flex: 0 0 auto;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 260px;
+  padding: 24px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.cert-card:hover {
+  transform: translateY(-5px);
+}
+
+.cert-icon {
+  font-size: 2.5rem;
+  background: linear-gradient(to right, #5a5df0, #8f4ffb);
+  color: white;
+  width: 64px;
+  height: 64px;
+  margin: 0 auto 16px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cert-card h3 {
+  margin: 10px 0 6px;
+  font-size: 1.1rem;
+  color: #222;
+}
+
+.cert-card p {
+  margin: 0 0 10px;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.cert-link {
+  color: #356ef7;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+.cert-link:hover {
+  text-decoration: underline;
+}
+
+.scroll-btn {
+  background: #356ef7;
+  color: white;
+  border: none;
+  font-size: 1.5rem;
+  padding: 12px;
+  cursor: pointer;
+  border-radius: 50%;
+  margin: 0 10px;
+  transition: background 0.3s;
+}
+
+.scroll-btn:hover {
+  background: #254ad2;
+}
+
+.scroll-btn.left {
+  position: absolute;
+  left: 0;
+  z-index: 10;
+}
+
+.scroll-btn.right {
+  position: absolute;
+  right: 0;
+  z-index: 10;
+}
